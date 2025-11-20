@@ -1,4 +1,4 @@
-from artists import get_artworks
+from museum.artists import get_artworks
 
 
 def main():
