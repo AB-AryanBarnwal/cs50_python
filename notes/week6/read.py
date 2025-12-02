@@ -11,6 +11,3 @@ with open("names.txt", "r") as pokeball:
 for names in sorted(n, reverse=True):
     print(f"I choose you, {names}!")
 
-# with open("names.txt", "r") as pokeball:
-#      for line in sorted(pokeball):
-#           print(f"I choose you, {line.rstrip()}!")
